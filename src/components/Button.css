@@ -1,0 +1,25 @@
+.btn-container {
+    width: 400px;
+    background-color: bisque;
+}
+.btn-group {
+    display: flex;
+}
+.btn {
+    width: 100px;
+    height: 40px;
+    border: none;
+    transition: .5s;
+}
+.btn-long {
+    width: 300px;
+    background-color: green;
+}
+.btn-sg {
+    background-color: #454545;
+    color: white;
+}
+.btn:hover {
+    background-color: #636262;
+    color: white;
+}
